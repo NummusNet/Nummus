@@ -1,0 +1,28 @@
+{
+  "name": "@nummus-app/web",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "tscheck": "tsc --noEmit",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@nummus-app/eslint-config": "workspace:*",
+    "@nummus-app/tsconfig": "workspace:*",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite-plugin-externals": "^0.6.2",
+    "vite-plugin-html": "^3.2.2",
+    "typescript": "5.1.6",
+    "vite": "^5.2.10"
+  }
+}

@@ -1,0 +1,1 @@
+{ "extends": ["@nummus-app/eslint-config"] }
