@@ -13,7 +13,7 @@ on:
       - .vscode/**
 
 jobs:
-  test:
+  build_test_lint:
     timeout-minutes: 30
     if: ${{ github.actor != 'dependabot[bot]' }}
     runs-on: ubuntu-latest
