@@ -1,4 +1,4 @@
-# Nummus
+# Nummus-App
 
 **Nummus (pl. nummi)** is a Latin word for various coins that was borrowed from Doric Greek
 
