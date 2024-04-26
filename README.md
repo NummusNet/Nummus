@@ -1,8 +1,8 @@
-# Nummus-app
+# Nummus
 
 **Nummus (pl. nummi)** is a Latin word for various coins that was borrowed from Doric Greek
 
-**Nummus-app** is a personal finance app, It is 100% free and open-source, written in NodeJS.
+**Nummus** is also a personal finance tool, It is 100% free and open-source, written in NodeJS.
 
 ### Packages
 
