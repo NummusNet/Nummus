@@ -28,7 +28,7 @@
     "@types/node": "^18.14.6",
     "@types/tap": "^15.0.8",
     "pino-pretty": "^10.0.0",
-    "tap": "^16.3.4",
+    "tap": "^20.0.3",
     "typescript": "5.1.6",
     "ts-node-dev": "^2.0.0"
   }
